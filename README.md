@@ -39,33 +39,30 @@ cd SAGACITY
 # Install dependencies
 npm install
 
-bash run
+# Bash run
 npm start
 
-docker setup-
+# Docker setup-
 docker build -t sagacity-chatbot .
 docker run -p 3000:3000 sagacity-chatbot
 ```
 
-📂 Project Structure
-apps/ → Core chatbot logic and flows
+## 📂 Project Structure
+- apps/ → Core chatbot logic and flows
+- package.json → Dependencies and scripts
+- SETUP.md → Setup instructions
+- .gitignore / .dockerignore → Environment configs
 
-package.json → Dependencies and scripts
+## 🏆 Achievements
+- Developed by Team Sagacity
 
-SETUP.md → Setup instructions
+##🥇 First Prize Winner at Hackathon for innovation in rural healthcare awareness
 
-.gitignore / .dockerignore → Environment configs
-
-🏆 Achievements
-Developed by Team Sagacity
-
-🥇 First Prize Winner at Hackathon for innovation in rural healthcare awareness
-
-🤝 Contributing
+##🤝 Contributing
 Contributions are welcome!
 Please fork the repo, create a feature branch, and submit a pull request.
 
-📜 License
+##📜 License
 This project is licensed under the MIT License.
 
 🙌 Acknowledgements
