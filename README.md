@@ -45,6 +45,7 @@ npm start
 docker setup-
 docker build -t sagacity-chatbot .
 docker run -p 3000:3000 sagacity-chatbot
+```
 
 📂 Project Structure
 apps/ → Core chatbot logic and flows
