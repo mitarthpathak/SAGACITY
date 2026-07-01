@@ -56,16 +56,11 @@ docker run -p 3000:3000 sagacity-chatbot
 ## 🏆 Achievements
 - Developed by Team Sagacity
 
+
+
+
 ##🥇 First Prize Winner at Hackathon for innovation in rural healthcare awareness
 
-##🤝 Contributing
-Contributions are welcome!
-Please fork the repo, create a feature branch, and submit a pull request.
 
-##📜 License
-This project is licensed under the MIT License.
 
-🙌 Acknowledgements
-Government health APIs for verified data
 
-Open-source community for frameworks and tools
